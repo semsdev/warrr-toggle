@@ -52,6 +52,7 @@ input {
 }
 
 .box {
+  top: 100px;
   position: relative;
   padding: 2px 2px;
   display: flex;
@@ -123,10 +124,10 @@ input {
 }
 
 .text {
-  font-size: 10rem;
+  font-size: 6rem;
   position: fixed;
   margin: 0px;
-  bottom: 10%;
+  bottom: 20%;
   left: 50%;
   text-align: center;
   transform: translateX(-50%);
